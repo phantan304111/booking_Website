@@ -1,0 +1,76 @@
+
+.navbar{
+  color: rgb(225, 225, 225);
+  background-color: rgb(31, 31, 164);
+  max-width: 100%;
+  font-size: 14px;
+  align-self: center;
+  padding: 20px 0px 20px 0px;
+
+}
+.navbar_head{
+  margin: auto;
+
+  width: 70%;
+  margin-bottom: 50px;
+  display: flex;
+  /* flex-direction: column; */
+  gap: auto;
+  align-items: flex-start;
+  
+  justify-content: space-between;
+
+  flex: 1;
+}
+.navbar_title{
+  /* flex-direction: column; */
+  align-self:flex-start;  flex-grow: 8;
+}
+.navbar_text{
+  font-size: 18px;
+}
+.navbar_head_login{
+display: flex;
+/* margin-left: auto; */
+/* flex-direction: column; */
+gap: 1rem;
+align-items: flex-end;
+justify-content: space-between;
+padding-left:100px;
+
+}
+.navbar_button{
+  color: rgb(3, 3, 184);
+}
+.navbar_items_layout{
+  margin: auto;
+  width: 70%;
+  margin-bottom: 20px;
+  display: flex;
+  /* flex-direction: column; */
+  
+  gap:  20px;
+  align-items: flex-start;
+  justify-content:flex-start;
+
+}
+.navbar_items{
+  display: flex;
+  align-items: flex-start;
+  gap:10px;
+  justify-content: space-between;  
+  padding: 8px;justify-content: center;
+  align-items:center;
+
+}
+.navbar_items.check{
+  display: flex;
+  align-items: flex-start;
+  border: 2px solid white;
+  border-radius: 20px;
+  justify-content: center;
+  align-items:center;
+  gap:10px;
+  justify-content: space-between;
+
+}

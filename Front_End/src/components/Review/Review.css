@@ -1,0 +1,16 @@
+.Review_content{
+  margin: auto;
+  width: 50%;
+  margin-top:20px;
+
+  display: flex;
+  align-items: flex-start;
+  gap:auto;
+  justify-content: space-between;  
+  padding: 8px;
+}
+.Review{
+  padding-bottom: 70px;
+  padding-top: 40px;
+
+}

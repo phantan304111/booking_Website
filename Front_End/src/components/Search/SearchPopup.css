@@ -1,0 +1,44 @@
+.Search_popup{
+background-color: rgb(248, 186, 71);
+width:240px;
+padding: 10px;
+margin: 0 auto;
+line-height: 32px;
+padding-top: 20px;
+border-radius: 16px;
+
+}
+.Search_popup_title{
+  color: rgb(137, 112, 7);
+  font-weight: 800;
+  font-size: 18px;
+}
+.Search_popup_text{
+font-size: 14px;
+font-weight: 600;
+}
+.Search__popup_inputbig{
+  width:95%;
+  height:32px;
+  font-size: 16px;
+  color:black
+}
+.Search__popup_info{
+  padding: 12px;
+  color: rgba(0, 0, 0, 0.7);
+  display: grid;
+  grid-template-columns: 140px 60px ;
+  row-gap: 12px;
+  font-size: 14px;
+  gap: 12px;
+}
+.Search__popup_input{
+  height:20px;
+}
+.Search__popup_button{
+  width: 100%;
+  height:40px;
+  color:white;
+  background-color: rgb(57, 120, 223);
+  border: 0;
+}

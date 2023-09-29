@@ -1,0 +1,40 @@
+.wrapper {
+  margin-top: 550px;
+  height: max-content;
+  // z-index: 29;
+}
+.formContainer {
+  position: relative;
+  bottom: 500px;
+  border-radius: 10%;
+  line-height: 90px;
+  width: 30%;
+  left: 37%;
+  height: max-content;
+  z-index: 1;
+}
+.enteredInput {
+  border-radius: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+.enteredInput input {
+  font-size: 20px;
+  padding-left: 4%;
+  height: 70px;
+  width: 80%;
+}
+
+.enteredInput button {
+  font-size: 20px;
+  background-color: rgb(44, 106, 206);
+  color: aliceblue;
+
+  height: 60px;
+  width: 85%;
+}
+.titleText {
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 32px;
+}

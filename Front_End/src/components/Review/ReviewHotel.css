@@ -1,0 +1,37 @@
+.hotel_img{
+  width: 160px;
+  height: 180px;
+}
+.reviewhotel{
+  text-align: left;
+  color: white;
+}
+.reviewhotel_textcity{
+  color: gray;
+  font-size: 14px;
+}
+.reviewhotel_textprice{
+  color: black;;
+  font-size: 16px;
+  font-weight: 600;
+}
+.reviewhotel_textname{
+  font-size: 18px;
+  font-weight:700;
+
+}
+.reviewhotel_textrate{
+  color: rgb(239, 239, 239);padding: 2px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: rgb(7, 7, 151);
+}
+.reviewhotel_texttype{
+  color: black;;
+  font-size: 16px;
+  font-weight: 600;
+}
+.reviewhotel_textlayout{
+  display: flex;
+  gap:20px;
+}

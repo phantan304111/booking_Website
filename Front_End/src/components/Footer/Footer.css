@@ -1,0 +1,11 @@
+.footer_layout{
+display:flex;
+margin: 0 auto;
+/* width: 100%; */
+transform: translate(25%, 0%);
+padding-top: 28px;
+gap: 5%;
+font-size: 12px;
+line-height: 24px;
+color: rgb(0, 0, 205);
+}

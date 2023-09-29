@@ -1,0 +1,9 @@
+.SearchInfo{
+  width:80%;
+  margin:auto;
+  display:flex;
+  flex-direction: 0;
+  padding: 70px 10px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

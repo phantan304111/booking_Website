@@ -1,0 +1,21 @@
+.city_img{
+  width: 240px;
+  height: 160px;
+  border-radius: 12px;
+}
+.reviewcity{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.reviewcity_text{
+  position: absolute;
+  bottom: 18px;
+  left: 16px;
+}
+.reviewcity_textname{
+  position: absolute;
+  bottom: 48px;
+  font-size: 24px;
+  left: 16px;
+}
